@@ -1,5 +1,6 @@
 def paper_doll(text):
     
-    for char in text:
-        result +=char*3
-    return result    
+    for cha in text:
+        result +=cha*3
+    return result
+print("yes")
