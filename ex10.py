@@ -9,4 +9,4 @@ def has_33(nums):
     
     return False
 
-
+print("read it carefully")
